@@ -1,5 +1,7 @@
 # Product Embedding for Retail
 
+🚧 Blog post in the works
+
 ### Intro
 
 In this project, we would like to lean semantic representations (**embeddings**) for products (and eventually customers, or any other "abstraction" that can be derived from product vectors). The *product* here is a reference to retail use cases, but it can be anything, [Spotify does it for songs](https://read.hyperight.com/how-spotify-knows-what-music-you-like-hint-with-machine-learning/) for example.
